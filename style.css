@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+}
+.parent-container {
+    border: 5px solid rgb(3, 226, 255);
+    width: 1000px;
+    min-height: 100px;
+}
+.parent-container div {
+    padding: 20px 0px;
+    margin: 10px 0px;
+    color: rgb(255, 255, 255);
+    background: rgb(255, 19, 243);
+}
+.px{
+    width: 400px;
+}
+.rem{
+    width: 25rem;
+}
+.em{
+    width: 25em;
+}
+.vh{
+    width: 69.5vh;
+}
+.vw{
+    width: 52vw;
+}
+.percent{
+    width: 40%;
+}
